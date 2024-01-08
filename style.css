@@ -1,6 +1,6 @@
 .first-section{
     
-    background-image: linear-gradient(to  bottom, #070211, rgba(0,0,0,0)), url('../images/Banner\ Image.png');
+    background-image: linear-gradient(to  bottom, #070211, rgba(0,0,0,0)), url('/images/Banner\ Image.png');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -26,7 +26,7 @@
 }
 
 .third-section{
-    background-image: linear-gradient(to  right, rgb(11, 9, 9), rgba(0,0,0,0)), url('../images/Vectorrr.png');
+    background-image: linear-gradient(to  right, rgb(11, 9, 9), rgba(0,0,0,0)), url('/images/Vectorrr.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
